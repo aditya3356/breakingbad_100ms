@@ -1,0 +1,140 @@
+.ContainerCharacter {
+    position: absolute;
+    width: 1240px;
+    left: 103px;
+    top: 188px;
+}
+
+.Name {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+    text-align: center;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.Image {
+    display: block;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 16px;
+    border-radius: 5px;
+}
+
+.Birthday {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+    text-align: center;
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.Occupation {
+    font-family: Nunito;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    margin-bottom: 16px;
+    text-align: center;
+}
+
+.Status {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.Nickname {
+    margin-left: 16px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.Portrayed {
+    margin-left: 16px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.Seasons {
+    margin-left: 16px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+.QuotesHeading {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    margin-bottom: 16px;
+}
+
+.Quote {
+    font-family: Nunito;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 80%;
+    /* identical to box height, or 20px */
+
+
+    color: #000000;
+    margin-bottom: 16px;
+}

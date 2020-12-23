@@ -1,0 +1,51 @@
+.ContainerCharacters {
+    position: absolute;
+    width: 1240px;
+    left: 103px;
+    top: 288px;
+}
+
+.Header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.Footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+.Heading {
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 80%;
+    /* or 38px */
+
+
+    color: #000000;
+    margin-bottom: 48px;
+}
+
+.Navigation {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavigationIcon {
+    font-size: 32px;
+    cursor: pointer;
+    color: #AE42C9;
+}
+
+.NavigationIconDisabled {
+    font-size: 32px;
+    cursor: not-allowed;
+    color: #615d5d;
+}
